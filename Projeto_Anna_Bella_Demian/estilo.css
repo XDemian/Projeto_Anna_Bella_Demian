@@ -1,0 +1,27 @@
+.capa{
+	background:fixed no-repeat  url(capa.png);
+	background-attachment: fixed;
+	background-position:  lefth top;
+
+}
+
+.fundo{
+
+	background-image: url(fundo.PNG);
+}
+
+.negrito{
+	font-weight: bold ;	
+	background-color: #A4A4A4 ;
+	font-size: 20px ;
+}
+
+.formatarDiv{
+	font-size: 70px;
+}
+
+.color01{
+	font-weight: bold ;
+	 color #9AA684;
+
+}
